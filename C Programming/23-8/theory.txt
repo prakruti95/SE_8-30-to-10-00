@@ -1,0 +1,45 @@
+C Program:
+
+Editors:
+Vscode
+Turbo C++
+Dev C++
+Online Compiler
+
+Programming:
+print something -> printf
+# -> pre processor
+include -> 
+stdio -> standard input output
+conio -> console input output
+h -> header file
+void -> null value return
+main -> method name
+return 0 -> program terminate
+getch -> program terminate
+\n -> new line
+\t -> tab
+
+data type:
+integer -> int -> numeric value store->2 byte -> %d
+float  -> float -> decimal value-> 4 byte -> %f
+character -> char -> single character-> 1 byte -> %c
+double -> double -> decimal value-> 8 byte -> %lf
+
+variable:
+
+data_type v.name;
+int a;
+
+
+Arithmetic Op -> +,-,*,/,%
+
+
+
+
+
+
+ 
+
+
+
