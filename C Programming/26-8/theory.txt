@@ -1,0 +1,42 @@
+Single Line Comment -> //
+Multi  Line Comment -> ctrl+ / or */ content */
+
+Operators:
+1)Arithmeric Op:+,-,*/,%
+2)Shorthand Op:+=,-=,*=,/=,%=
+
+a+=b // a = a+b
+b-=c // b = b-c
+c*=a // c= c*a
+c=a+b
+a=a+b
+
+3)Relational Op:<,>,<=,>=,==,!=
+4)Assignment Op:= 
+
+
+Conditional Statement:
+1) if
+2) else
+3) else if
+4) nested if
+5) switch-case-break
+
+if()
+{
+}
+else
+{
+}
+
+scanf -> take a user input
+
+Logical Op: &&,||,!
+
+num -> 12,13
+check odd/even
+
+
+
+
+
