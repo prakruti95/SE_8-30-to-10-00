@@ -1,0 +1,41 @@
+Looping statement
+
+types of loop
+1)entry control loop : for,while
+2)exit control loop : do while
+
+
+1) 
+for(initialization;condition;incre/decre)
+{
+	
+}
+
+2)
+initialization;
+
+while(condition)
+{
+	incre/decre
+}
+
+3)
+initialization;
+
+do
+{
+	incre/decre
+}
+while(condition);
+
+
+num = 1234
+1+2+3+4=10
+
+
+
+
+
+
+
+
