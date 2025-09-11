@@ -1,0 +1,16 @@
+tops
+tops4
+
+prakruti
+prakruti8
+
+terms & conditions:
+-> do not use function
+-> do not use loop
+-> do not use conditions
+-> do not use pointer
+-> do not use sizeof 
+-> do not use variable declaration
+
+
+

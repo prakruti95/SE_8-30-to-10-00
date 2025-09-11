@@ -1,0 +1,115 @@
+4,5
+int c = a+b;
+
+6,7
+int d = e+f;
+
+
+8,9
+int d = e+f;
+
+1,2
+int d = e+f;
+
+function syntax:
+return_type fun_name()
+{
+  return value;
+} 
+
+int cal()
+{
+ return 0;
+}
+
+Function:when you have to run the same code multiple times then for code 
+redundancy we are using function
+
+
+function types:
+1)Inbuilt Functions :
+->string functions
+->math function
+
+
+2)User-defined functions :
+-> with para with return type
+-> with para without return type
+-> without para with return type
+-> without para without return type
+
+//with para with return type
+int a(int a,int b,int c)
+{
+    return a*b*c;  
+}
+
+//with para without return type
+void a(int a,int b,int c)
+{
+     
+}
+
+//without para with return type
+int a()
+{
+    return     
+}
+
+//without para without return type
+void a()
+{
+
+}
+
+
+connectivitychecker()
+{
+	if(connectivity == Connectivity.mobile)
+	{
+	}
+	else if(connectivity == Connectivity.wifi)
+	{
+	}
+	else if(connectivity == Connectivity.none)
+	{
+	}
+	else
+	{
+		shownetworkerror();
+	}
+		
+	
+}
+
+shownetworkerror()
+{
+}
+
+Offline editor:
+Turbo C++
+Dev C++
+Vs code
+
+Online editor:
+Online Gdb Compiler
+
+string functions:
+strlen -> string length
+strcat -> string concat
+strcpy -> string copy
+strcmp -> string compare
+strlwr -> string lowercase
+strupr -> string uppercase
+strrev -> string reverse
+
+#include<string.h>
+ 
+
+
+
+
+
+
+
+
