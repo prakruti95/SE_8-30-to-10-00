@@ -1,0 +1,15 @@
+1
+2
+3
+
+total laptop:2
+total monitor:2
+total mobile:45
+
+stock : 90 mobile 
+stock : 10 laptop
+stock : 5 Desktop
+
+remaining stock
+
+
