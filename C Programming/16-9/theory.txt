@@ -1,0 +1,42 @@
+Userinput - character
+
+Vowel
+Consonant
+
+Logical Operator:
+&&,||,!
+
+Unary Operator -> ++, --
+
+Functions:
+1)User Defined Functions:
+ a)with para with return type
+ b)with para without return type
+ c)with return type without para
+ d)without para without return type
+
+
+
+int quantity,total=0;
+
+case 1:printf("");
+printf("Quantity?);
+scanf("%d",&quantity);//2
+total+= 180*quantity;
+break;
+
+case 2:printf("");
+printf("Quantity?);
+scanf("%d",&quantity);//2
+total+= 100*quantity;
+break;
+
+
+
+
+
+
+
+
+
+
