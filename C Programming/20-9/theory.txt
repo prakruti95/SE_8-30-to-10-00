@@ -1,0 +1,32 @@
+Array : Collection of elements
+
+Types of Array
+1)Single Dimensional Array
+2)Multi Dimensional Array
+
+1-D Array ->one dimensional
+2-D Array ->two dimensional
+
+[size]
+
+int marks;
+int marks2;
+int marks3;
+int marks4;
+int marks5;
+
+or
+
+int marks[5];
+int data[4][4];
+
+-> 1
+->Array's index will start from 0.
+->you can not change array's value dynamically
+
+
+
+
+
+
+
