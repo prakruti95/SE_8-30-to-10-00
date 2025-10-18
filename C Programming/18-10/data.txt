@@ -1,0 +1,37 @@
+1.
+#include <stdio.h>
+
+int main(){
+
+   int a = 16;
+   
+   printf("Size of variable a : %d\n",sizeof(a));
+   printf("Size of int data type : %d\n",sizeof(int));
+   printf("Size of char data type : %d\n",sizeof(char));
+   printf("Size of float data type : %d\n",sizeof(float));
+   printf("Size of double data type : %d\n",sizeof(double));   
+ 
+   return 0;
+}
+
+2.
+// Online C compiler to run C program online
+#include<stdio.h>
+
+
+void main()
+{
+    
+
+    int a = 5;
+	int b = 7;
+
+	// Performing Bitwise AND on a and b
+	int c = a & b;
+	printf("%d",c);
+	
+	 int d = a | b;
+     printf("%d",d);
+	
+
+}
