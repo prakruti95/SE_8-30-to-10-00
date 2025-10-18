@@ -1,7 +1,8 @@
 Task Title: Student Marks Management System
 
 Problem Statement:
-Create a program in C that helps a teacher manage student marks. The program should allow the user to:
+Create a program in C that helps a teacher manage student marks. 
+The program should allow the user to:
 
 Enter the number of students (max 100).
 
