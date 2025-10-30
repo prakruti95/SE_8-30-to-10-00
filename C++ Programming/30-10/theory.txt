@@ -1,0 +1,13 @@
+public
+private
+protected
+
+constructor:when method having a same as a classname
+
+types of constructor
+1)default-> no arguments
+2)parameterized
+3)copy
+
+local variable
+global variable
