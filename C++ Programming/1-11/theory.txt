@@ -1,0 +1,16 @@
+Inheritance:
+
+Types of inheritance
+1)single
+2)multilevel
+3)multiple
+4)hierarchical
+5)hybrid
+
+parent - child
+super - sub
+base - derived
+
+
+
+
