@@ -1,0 +1,1 @@
+perform the multiplication example using hybrid inheritance
