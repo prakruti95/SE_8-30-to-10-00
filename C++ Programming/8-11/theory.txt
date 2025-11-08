@@ -1,0 +1,16 @@
+//non abstract method
+void a()
+{
+	//body
+}
+
+//abstract method
+virtual void a();
+
+
+-> non abstract class can only declare non abstract method
+-> abstract class can accept abstract as well as non abstract method
+
+-> 
+#include<cstring.h>
+
