@@ -16,7 +16,6 @@ void main()
    struct student s1 = {"John Doe", 20, {"New York", 10001}};
     
     
-
     
     getch();
 }
