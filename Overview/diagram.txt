@@ -1,0 +1,11 @@
+SRS-> sofrware requirement Specifications
+
+UML Diagrams
+Unified Modeling Language
+
+Usecase Diagram
+Activity Diagram
+FlowChart
+DFD diagram
+Class Diagram
+
